@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -247,4 +247,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Emory Blue */
+.theme-base-emory .sidebar {
+  background-color: #002878;
+}
+.theme-base-emory .content a,
+.theme-base-emory .related-posts li a:hover {
+  color: #002878;
 }
